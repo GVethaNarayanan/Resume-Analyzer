@@ -1,0 +1,33 @@
+Upload Resume PDF,Select Job Role,Resume Analysis Report,timestamp
+.gradio/flagged/Upload Resume PDF/d3d1c7ebbb25cfaa7c4c/sample resume data analyst.pdf,Data Analyst,"'
+Role Applied: Data Analyst
+
+ATS Score: 80%
+
+Status: ✅ Highly Recommended
+
+Skills Found:
+excel, sql, python, power bi, tableau, data visualization, pandas, numpy, reporting, dashboard, data cleaning, communication
+
+Missing Skills:
+business analysis, problem solving, statistics
+
+Recommendation:
+
+",2026-06-18 13:37:13.839118
+.gradio/flagged/Upload Resume PDF/363016396cf80e830c3b/sample resume data analyst.pdf,Data Analyst,"'
+Role Applied: Data Analyst
+
+ATS Score: 80%
+
+Status: ✅ Highly Recommended
+
+Skills Found:
+excel, sql, python, power bi, tableau, data visualization, pandas, numpy, reporting, dashboard, data cleaning, communication
+
+Missing Skills:
+business analysis, problem solving, statistics
+
+Recommendation:
+
+",2026-06-18 13:37:16.321449

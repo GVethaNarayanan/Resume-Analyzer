@@ -1,0 +1,73 @@
+{
+  "Data Scientist": [
+    "python",
+    "sql",
+    "machine learning",
+    "deep learning",
+    "statistics",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+    "tensorflow",
+    "data visualization",
+    "power bi",
+    "excel",
+    "feature engineering",
+    "data cleaning"
+  ],
+
+  "Data Analyst": [
+    "excel",
+    "sql",
+    "python",
+    "power bi",
+    "tableau",
+    "statistics",
+    "data visualization",
+    "pandas",
+    "numpy",
+    "reporting",
+    "dashboard",
+    "business analysis",
+    "data cleaning",
+    "communication",
+    "problem solving"
+  ],
+
+  "Web Developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "node.js",
+    "express",
+    "mongodb",
+    "git",
+    "github",
+    "responsive design",
+    "bootstrap",
+    "api",
+    "json",
+    "typescript",
+    "frontend"
+  ],
+
+  "ML Engineer": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "tensorflow",
+    "pytorch",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "mlops",
+    "docker",
+    "kubernetes",
+    "aws",
+    "feature engineering",
+    "model deployment",
+    "git"
+  ]
+}
