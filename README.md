@@ -12,6 +12,11 @@
 
 ---
 
+## 📸 Application Preview
+![AI Resume Analyzer](img.png)
+
+---
+
 ## 📌 Overview
 
 AI Resume Analyzer is a smart ATS (Applicant Tracking System) based web application that automates the initial resume screening process. Users can upload their resume, select a target job role, and instantly receive an ATS score, matched skills, missing skills, and personalized recommendations.
